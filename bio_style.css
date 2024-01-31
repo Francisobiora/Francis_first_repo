@@ -1,0 +1,13 @@
+.header{font-size:18px;
+	color:white;
+    background-color: black;
+	font-size: x-large;}
+.name{font-size: x-large;}
+.contact{font-size: x-large;
+text-align:center;}
+.list{
+font-size: large; text-align: left;
+}
+.about{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size:x-large;
+}
